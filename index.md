@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+NEW PAGE FOR CLASS
 
-[Link to another page](./another-page.html).
+[Link to another page](./page2.html).
 
 There should be whitespace between paragraphs.
 
