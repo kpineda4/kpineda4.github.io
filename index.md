@@ -1,4 +1,4 @@
 ---
 layout: Testing Page
 ---
-[Link to another page](./another-page.html).
+[Link to another page](./page2.md).
