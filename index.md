@@ -4,17 +4,15 @@ layout: default
 
 # NEW PAGE FOR CLASS
 
+## Some links
 [Link to another page](./page2.html).
 
 
 [Link to an awesome picture](https://specials-images.forbesimg.com/imageserve/5e3b12cb8b6cf300071df09e/960x0.jpg?fit=scale).
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Jupyter Notebook Page:
+[Link to Jupyter Notebook](./BasicGraphAssignments.ipynb).
 
 ## Header 2
 
