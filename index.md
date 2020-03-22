@@ -14,4 +14,4 @@ layout: default
 ## Jupyter Notebook Page:
 [Link to Basic Graphs (ipynb)](./BasicGraphAssignments.ipynb).
 
-[Link to Basic Graphs (html)](./BasicGraphAssignments.html).
+[Link to Basic Graphs (html)](BasicGraphAssignments.html).
