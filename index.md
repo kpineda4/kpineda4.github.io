@@ -7,7 +7,7 @@ layout: default
 [Link to another page](./page2.html).
 
 
-[Link to an awesome picture](./https://specials-images.forbesimg.com/imageserve/5e3b12cb8b6cf300071df09e/960x0.jpg?fit=scale).
+[Link to an awesome picture](https://specials-images.forbesimg.com/imageserve/5e3b12cb8b6cf300071df09e/960x0.jpg?fit=scale).
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
