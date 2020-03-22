@@ -2,7 +2,7 @@
 layout: default
 ---
 
-NEW PAGE FOR CLASS
+# NEW PAGE FOR CLASS
 
 [Link to another page](./page2.html).
 
